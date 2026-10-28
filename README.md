@@ -20,4 +20,4 @@ For stuff like heroku deployment, aws elasticbeanstalk, run `npm run start`
 * `clean` - delete transpiled folder
 * `build` - clean and transpile
 
-* Piepline trigger test
+CI/CD pipeline automatic trigger verification.
